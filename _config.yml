@@ -1,9 +1,9 @@
-title: Minimalist
-owner: Max Muster
-email:
-description: A simple and minimalistic jekyll blogging theme
+title: Bit Banger's Lair
+owner: Adi Gandhi
+email: thebitbanger@gmail.com
+description: A collection of my thoughts, ideas and things I like. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "adigandhi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 language: en
 twitter_username:
 github_username:
