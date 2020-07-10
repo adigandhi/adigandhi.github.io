@@ -1,14 +1,14 @@
 # Minimalist
 
 [![Build Status](https://travis-ci.org/Trybnetic/minimalist.svg?branch=master)](https://travis-ci.org/Trybnetic/minimalist)
-[![License](https://img.shields.io/github/license/Trybnetic/minimalist.svg)](https://github.com/Trybnetic/minimalist/blob/master/LICENSE.txt)  
+[![License](https://img.shields.io/github/license/Trybnetic/minimalist.svg)](https://adigandhi.github.io/blob/master/LICENSE.txt)  
 
 Minimalist is a simple and light weighted [jekyll](http://jekyllrb.com/) theme. It focuses on a minimalistic design but still providing all functionality for a personal blog.
 
 ## Installation
 To install Open Recipes you have to install [jekyll](https://jekyllrb.com). After successfully installing jekyll you have to clone this repository to your computer:
 ```
-git clone https://github.com/Trybnetic/minimalist.git
+git clone https://github.com/adigandhiminimalist.git
 ```
 Then switch into the directory and start jekyll:
 ```
@@ -61,7 +61,7 @@ permalink: /categories/<your category name>/
 The first line specifies that the layout of the rendered site is category. In the second line you have to specify the name of the category you want to add. And finally, you have to specify the link scheme to your category site.
 
 ## Host your own blog
-The simplest way to host your own blog with the [Minimalist](https://trybnetic.github.io/minimalist/) theme is to fork [the repository](https://github.com/Trybnetic/minimalist/) and use the [gh-pages](https://pages.github.com/) functionality provided by [GitHub](https://github.com/).
+The simplest way to host your own blog with the [Minimalist](https://trybnetic.github.io/minimalist/) theme is to fork [the repository](https://adigandhi.github.io/) and use the [gh-pages](https://pages.github.com/) functionality provided by [GitHub](https://github.com/).
 
 ## License
-This jekyll theme is [licensed under the MIT license](https://github.com/Trybnetic/minimalist/blob/master/LICENSE.txt). Check the license on whether and how you are allowed to use, modify and distribute this theme.
+This jekyll theme is [licensed under the MIT license](https://adigandhi.github.io/blob/master/LICENSE.txt). Check the license on whether and how you are allowed to use, modify and distribute this theme.
